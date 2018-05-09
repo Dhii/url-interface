@@ -7,6 +7,12 @@
 [![Latest Unstable Version](https://poser.pugx.org/dhii/url-interface/v/unstable)](https://packagist.org/packages/dhii/url-interface)
 [![This package complies with Dhii standards](https://img.shields.io/badge/Dhii-Compliant-green.svg?style=flat-square)][Dhii]
 
-Interfaces for working with URLs
+## Details
+Interfaces for working with URLs.
+
+### Interfaces
+- [`UrlAwareInterface`][] - Something that exposes a URL.
 
 [Dhii]: https://github.com/Dhii/dhii
+
+[`UrlAwareInterface`]:                          src/UrlAwareInterface.php
